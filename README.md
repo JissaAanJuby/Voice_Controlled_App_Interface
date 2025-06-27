@@ -78,6 +78,28 @@ HomeWhisper/
 
 ## 📸 Preview
 
+![Image](https://github.com/user-attachments/assets/ad6b9bfd-5d0c-4337-b1fc-6c91731cbac9)
+
+![Image](https://github.com/user-attachments/assets/fbeacb61-65f3-4be3-a432-d41acee2b6df)
+
+![Image](https://github.com/user-attachments/assets/07105d7e-0fdc-4f2e-9ec0-4e6c869bd093)
+
+![Image](https://github.com/user-attachments/assets/8749c59f-cac7-47df-afda-249df7878576)
+
+![Image](https://github.com/user-attachments/assets/38848d1f-5a8d-4f88-9676-a10c81b0b3e8)
+
+Public Link:
+
+https://www.figma.com/design/D7XRajs3Txg5wYd2kh4mka/Untitled?node-id=0-1&t=qdgFfLllfYPtH9IQ-1
+
+Dev Mode Link:
+
+https://www.figma.com/design/D7XRajs3Txg5wYd2kh4mka/Untitled?node-id=0-1&m=dev&t=qdgFfLllfYPtH9IQ-1
+
+Prototype Link:
+
+https://www.figma.com/proto/D7XRajs3Txg5wYd2kh4mka/Untitled?node-id=0-1&t=qdgFfLllfYPtH9IQ-1
+
 
 ## 🙌 Credits
 
