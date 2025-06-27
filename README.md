@@ -30,28 +30,28 @@ CREATE A VOICE-CONTROLLED USER INTERFACE FOR A SMART HOME APP, FOCUSING ON UX FO
 ## 📱 App Screens Overview
 
 **📌 Screen 1: Welcome**  
-File: `![Image](https://github.com/user-attachments/assets/fbeacb61-65f3-4be3-a432-d41acee2b6df)`  
+![Image](https://github.com/user-attachments/assets/fbeacb61-65f3-4be3-a432-d41acee2b6df) 
 - Tagline: *"Where every whisper feels like HOME"*
 - Background: Soft pink
 - Elements: Volume icon + stylized text
 - Purpose: Brand intro and app ambiance setup
 
 **📌 Screen 2: Voice Activation**  
-File: `Screens/02_StartSpeaking.fig`  
+![Image](https://github.com/user-attachments/assets/07105d7e-0fdc-4f2e-9ec0-4e6c869bd093)
 - Mic icon centered
 - Button: `START SPEAKING NOW`
 - Navigation: `HOME`, `SIGN UP`, gear icon
 - Function: Begin capturing voice input
 
 **📌 Screen 3: Sign Up**  
-File: `Screens/03_SignUp.fig`  
+![Image](https://github.com/user-attachments/assets/8749c59f-cac7-47df-afda-249df7878576)
 - Form Inputs: Username, Password
 - Button: `SIGN UP`
 - OAuth: `CONTINUE WITH GOOGLE`
 - Navigation matches previous screen
 
 **📌 Screen 4: Command Confirmation**  
-File: `Screens/04_CommandConfirm.fig`  
+ ![Image](https://github.com/user-attachments/assets/38848d1f-5a8d-4f88-9676-a10c81b0b3e8)
 - Mic icon with animated waveform (`Assets/waveform.svg`)
 - Text field displaying interpretation: `"turn off ..."`
 - Prompt: `"Is it ...?"`
@@ -97,14 +97,6 @@ HomeWhisper/
 
 ![Image](https://github.com/user-attachments/assets/ad6b9bfd-5d0c-4337-b1fc-6c91731cbac9)
 
-![Image](https://github.com/user-attachments/assets/fbeacb61-65f3-4be3-a432-d41acee2b6df)
-
-![Image](https://github.com/user-attachments/assets/07105d7e-0fdc-4f2e-9ec0-4e6c869bd093)
-
-![Image](https://github.com/user-attachments/assets/8749c59f-cac7-47df-afda-249df7878576)
-
-![Image](https://github.com/user-attachments/assets/38848d1f-5a8d-4f88-9676-a10c81b0b3e8)
-
 Public Link:
 
 https://www.figma.com/design/D7XRajs3Txg5wYd2kh4mka/Untitled?node-id=0-1&t=qdgFfLllfYPtH9IQ-1
@@ -120,7 +112,7 @@ https://www.figma.com/proto/D7XRajs3Txg5wYd2kh4mka/Untitled?node-id=0-1&t=qdgFfL
 
 ## 🙌 Credits
 
-- **Design**: [Your Name]  
+- **Design**: Jissa Aan Juby  
 - **Prototype**: Figma  
 - **Icons**: Streamline Icons
 
