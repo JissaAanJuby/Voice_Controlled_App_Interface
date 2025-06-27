@@ -30,7 +30,7 @@ CREATE A VOICE-CONTROLLED USER INTERFACE FOR A SMART HOME APP, FOCUSING ON UX FO
 ## 📱 App Screens Overview
 
 **📌 Screen 1: Welcome**  
-File: `Screens/01_Welcome.fig`  
+File: `![Image](https://github.com/user-attachments/assets/fbeacb61-65f3-4be3-a432-d41acee2b6df)`  
 - Tagline: *"Where every whisper feels like HOME"*
 - Background: Soft pink
 - Elements: Volume icon + stylized text
